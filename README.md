@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justaninstrument
 - 👀 I’m interested in the brilliant world of computers and its endless possibilities.
 - 🌱 I’m currently learning python as a main language
-- 💞️ I’m looking to collaborate on anything that can help me improve my skills
+- 💞️ I’m looking to collaborate on anything that can help me hone my skills
 - 📫 You can get in touch with me through my mail on kwabenaasamoahadjei@gmail.com 
 
 <!---
